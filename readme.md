@@ -6,4 +6,4 @@
 ```
 python3 obot.py
 ```
-6. Follow instructions in terminal.
+6\. Follow instructions in terminal.
